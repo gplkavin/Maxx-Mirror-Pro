@@ -11,13 +11,43 @@
     "website": "https://telegram.dog/AbirHasan2005",
     "success_url": "https://t.me/Discovery_Updates",
     "env": {
-        "API_ID": {
+        "API_KEY": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
         },
         "API_HASH": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
         },
         "BOT_TOKEN": {
+            "description": "Get this from @BotFather XD"
+        },
+        "GDRIVE_FOLDER_ID": {
+            "description": "Get this from @BotFather XD"
+        },
+        "TELEGRAPH_TOKEN": {
+            "description": "Get this from @BotFather XD"
+        },
+        "DOWNLOAD_DIR": {
+            "description": "Get this from @BotFather XD"
+        },
+        "DOWNLOAD_STATUS_UPDATE_INTERVAL": {
+            "description": "Get this from @BotFather XD"
+        },
+        "OWNER_ID": {
+            "description": "Get this from @BotFather XD"
+        },
+        "AUTO_DELETE_MESSAGE_DURATION": {
+            "description": "Get this from @BotFather XD"
+        },
+        "IS_TEAM_DRIVE": {
+            "description": "Get this from @BotFather XD"
+        },
+        "USE_SERVICE_ACCOUNTS": {
+            "description": "Get this from @BotFather XD"
+        },
+        "USER_SESSION_STRING": {
+            "description": "Get this from @BotFather XD"
+        },
+        "STOP_DUPLICATE_MIRROR": {
             "description": "Get this from @BotFather XD"
         }
     },
